@@ -14,3 +14,5 @@ had difficulty implementing and getting data when the city had a space like for 
 -Mutable icons that will change depending on the type of weather in the searched city
 -Location weather that is retrieved upon opening application.
 -A button that will change from farenheight to celsius
+I have implemented all the must have features
+
