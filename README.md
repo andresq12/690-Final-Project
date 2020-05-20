@@ -1,4 +1,4 @@
-# 690-Final-Project
+# 690-Final-Project Andres Quinonez 916149044
 
 
 Want to make a weather app that is nice and minimalistic and i want to undertake this project in order to really familiarize myself with json decoding and using api in order to retrieve data. I am working individually here and my project is adapted from the online class i enrolled Udemy named iOS 13 & Swift 5
